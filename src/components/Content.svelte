@@ -82,7 +82,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Eva-01
 						</h5>
 					</a>
@@ -102,7 +102,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Rei Ayanami
 						</h5>
 					</a>
@@ -122,7 +122,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Shinji Ikari
 						</h5>
 					</a>
@@ -142,7 +142,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Rei Ayanami
 						</h5>
 					</a>
@@ -162,7 +162,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Eva-01
 						</h5>
 					</a>
@@ -182,7 +182,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Rei Ayanami
 						</h5>
 					</a>
@@ -202,7 +202,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Shinji Ikari
 						</h5>
 					</a>
@@ -222,7 +222,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Rei Ayanami
 						</h5>
 					</a>
@@ -242,7 +242,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Eva-01
 						</h5>
 					</a>
@@ -262,7 +262,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							PVC Figure Rei Ayanami
 						</h5>
 					</a>
@@ -282,7 +282,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Shinji Ikari
 						</h5>
 					</a>
@@ -302,7 +302,7 @@
 				</a>
 				<div class="p-5">
 					<a href="/">
-						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-800">
+						<h5 class="mb-2 text-lg font-bold tracking-tight text-gray-900 dark:text-gray-800">
 							Nendoroid Rei Ayanami
 						</h5>
 					</a>
